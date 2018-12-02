@@ -1,0 +1,3 @@
+pls input a num (a):
+pls input another num (b):
+8 / 2 = 4
